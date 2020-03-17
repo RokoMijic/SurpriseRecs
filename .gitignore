@@ -7,5 +7,6 @@ ipython_config.py
 *.ipynb
 
 /surpenv
+/temp
 
 
